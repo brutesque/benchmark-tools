@@ -4,6 +4,10 @@
 
 ## This script will keep rendering with all gpu's to test long-term render performance
 
+# Exit this script on the first error.
+#------------------------------------------------------------------------------
+set -e
+
 while true
 do
 	echo "Press [CTRL-C to stop.."
