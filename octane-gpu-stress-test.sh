@@ -10,7 +10,6 @@ set -e
 
 while true
 do
-	echo "Press [CTRL-C to stop.."
 	sleep 1
 
 #	/Applications/OctaneBench\ 2.17.app/Contents/MacOS/octane_demo --benchmark -g 2 -a ~/benchmark2.txt && tail -n 1 ~/benchmark2.txt
